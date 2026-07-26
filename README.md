@@ -34,34 +34,39 @@ My current focus is developing practical skills in:
 
 I'm continuously improving my skills through hands-on projects and real-world datasets.
 
-💻 Portfolio Website
+## 💻 Portfolio Website
 
 This website was designed to create a modern professional presence and showcase my data analytics journey.
 
-Website Features
-🌌 Futuristic dark-themed interface
-📊 Data analytics focused design
-✨ Smooth animations
-🖱️ Interactive hover effects
-📱 Responsive layout
-🔗 GitHub integration
-💼 LinkedIn integration
-📧 Email contact
-📂 Project showcase
-🧭 Smooth navigation
+## Website Features
 
-🛠️ Technologies Used
+- 🌌 Futuristic dark-themed interface
+- 📊 Data analytics focused design
+- ✨ Smooth animations
+- 🖱️ Interactive hover effects
+- 📱 Responsive layout
+- 🔗 GitHub integration
+- 💼 LinkedIn integration
+- 📧 Email contact
+- 📂 Project showcase
+- 🧭 Smooth navigation
+  
 
-Frontend
-HTML5
-CSS3
-JavaScript
+## 🛠️ Technologies Used
 
-Development Tools
-Visual Studio Code
-Git
-GitHub
-InfinityFree
+**Frontend**
+
+- HTML5
+- CSS3
+- JavaScript
+
+
+**Development Tools**
+
+- Visual Studio Code
+- Git
+- GitHub
+- InfinityFree
 
 ---
 
